@@ -1,0 +1,9 @@
+F:\ITStep\2 курс\WF\HW\Users\bin\Debug\Users.exe.config
+F:\ITStep\2 курс\WF\HW\Users\bin\Debug\Users.exe
+F:\ITStep\2 курс\WF\HW\Users\bin\Debug\Users.pdb
+F:\ITStep\2 курс\WF\HW\Users\obj\Debug\Users.csprojAssemblyReference.cache
+F:\ITStep\2 курс\WF\HW\Users\obj\Debug\Users.Form1.resources
+F:\ITStep\2 курс\WF\HW\Users\obj\Debug\Users.Properties.Resources.resources
+F:\ITStep\2 курс\WF\HW\Users\obj\Debug\Users.csproj.GenerateResource.cache
+F:\ITStep\2 курс\WF\HW\Users\obj\Debug\Users.exe
+F:\ITStep\2 курс\WF\HW\Users\obj\Debug\Users.pdb
